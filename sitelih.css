@@ -1,0 +1,14 @@
+*{
+    background-color: rgb(219, 175, 241);
+}
+.navbar-brand {
+    background-color: rgb(193, 150, 234);
+    font-family: fantasy;
+}
+.container-fluid {
+    background-color: rgb(193, 150, 234);
+}
+.nav-item {
+    background-color: rgb(193, 150, 234);
+    font-family: fantasy;
+}
