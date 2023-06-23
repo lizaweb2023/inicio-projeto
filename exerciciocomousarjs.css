@@ -1,0 +1,14 @@
+
+h1 {
+    display: flex;
+    justify-content: center;
+    color: aqua;
+    flex-direction: column;
+}
+
+.botao1 {
+    color: blueviolet;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
